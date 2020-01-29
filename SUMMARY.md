@@ -8,6 +8,8 @@
 
 * [添加软件/magisk模块](user.md)
 
+* [FAQ](faq.md)
+
 ## FOR DEV
 
 * [概览](Home.md)
