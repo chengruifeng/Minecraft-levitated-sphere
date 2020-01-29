@@ -20,6 +20,6 @@
 
 * [软件源配置文件的格式解释](软件源配置文件的格式解释.md)
 
-* [软件源 JavaScript 脚本编写指南](软件源 JavaScript 脚本编写指南.md)
+* [软件源 JavaScript 脚本编写指南](软件源-JavaScript-脚本编写指南.md)
 
-* [getReleaseInfo 详细说明](getReleaseInfo 详细说明.md)
+* [getReleaseInfo 详细说明](getReleaseInfo-详细说明.md)
